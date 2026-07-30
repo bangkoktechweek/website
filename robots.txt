@@ -1,1 +1,4 @@
-User-agent: *\nAllow: /\n\nSitemap: https://bangkoktechweek.com/sitemap.xml\n
+User-agent: *
+Allow: /
+
+Sitemap: https://bangkoktechweek.com/sitemap.xml
