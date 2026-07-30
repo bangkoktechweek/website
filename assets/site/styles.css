@@ -30,7 +30,7 @@ body {
   line-height: 1.5;
 }
 
-body.hyderabad {
+body.bangkok {
   --background: #fcf6ea;
   --foreground: #21182f;
   --paper: #fcf6ea;
@@ -42,16 +42,16 @@ body.hyderabad {
   --dark-preview: #21182f;
 }
 
-body.chennai {
-  --background: #fdf2df;
-  --foreground: #1d2333;
-  --paper: #fdf2df;
+body.bangkok {
+  --background: #fff5e6;
+  --foreground: #251a3b;
+  --paper: #fff5e6;
   --muted-foreground: #646174;
-  --border: #e4ceb6;
-  --secondary: #f5e4cc;
-  --accent: #c7472f;
-  --line-accent: #2a7f9e;
-  --dark-preview: #1d2333;
+  --border: #f1dfc5;
+  --secondary: #f1dfc5;
+  --accent: #d83b5d;
+  --line-accent: #087e8b;
+  --dark-preview: #251a3b;
 }
 
 a {

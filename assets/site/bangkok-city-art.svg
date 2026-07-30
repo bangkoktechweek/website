@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc" style="color:#087E8B">
+<title id="title">Bangkok Tech Week city illustration</title>
+<desc id="desc">Line art inspired by Wat Arun, the Chao Phraya River, long-tail boats, and Bangkok's skyline.</desc>
+<rect width="1200" height="400" fill="#FFF5E6"/><circle cx="1030" cy="92" r="58" fill="#D83B5D"/>
+<g opacity=".16" stroke="#251A3B" stroke-width="2"><path d="M0 80h1200M0 160h1200M0 240h1200"/></g>
+<path d="M0 326Q100 304 200 326T400 326T600 326T800 326T1000 326T1200 326V400H0Z" fill="#F1DFC5"/>
+<path d="M0 340Q100 318 200 340T400 340T600 340T800 340T1000 340T1200 340" fill="none" stroke="currentColor" stroke-width="4"/>
+
+<g transform="translate(700 42)" stroke="currentColor" fill="none" stroke-width="5">
+ <path d="M120 282V130l-29 32h58zM120 46l-13 84h26zM120 46V12M120 12l9 18"/>
+ <path d="M42 282V180l-24 30h48zM42 116l-11 64h22zM42 116V83M198 282V180l-24 30h48zM198 116l-11 64h22zM198 116V83"/>
+ <path d="M-8 282h256M67 282v-76h106v76M79 206l41-49 41 49"/>
+</g><g transform="translate(95 250)" stroke="currentColor" fill="none" stroke-width="5">
+ <path d="M0 43h250l-35 31H44zM58 43l68-35 70 35M285 58h145l-25 16h-92zM355 58V17l49 41"/>
+</g><g fill="#D83B5D"><circle cx="520" cy="291" r="13"/><circle cx="558" cy="276" r="13"/><circle cx="596" cy="291" r="13"/></g>
+<g stroke="#251A3B" stroke-width="5"><path d="M520 304v30m38-45v45m38-30v30M503 334h111"/></g></svg>

@@ -1,27 +1,27 @@
-# Chennai Tech Week
+# Bangkok Tech Week
 
-![Chennai Tech Week line illustration with builders gathering across the city.](assets/site/chennai-line-graphic.png)
+![Bangkok Tech Week line illustration with builders gathering across the city.](assets/site/bangkok-city-art.svg)
 
-[Chennai Tech Week](https://chennaitechweek.com) is a citywide builder week taking shape for founders, engineers, designers, investors, operators, and community hosts across Chennai.
+[Bangkok Tech Week](https://bangkoktechweek.com) is a citywide builder week taking shape for founders, engineers, designers, investors, operators, and community hosts across Bangkok, Thailand.
 
 The public website is intentionally simple while the program is being prepared. Follow the Luma calendar to get notified when updates open.
 
-[Get notified on Luma](https://lu.ma/chennaitechweek)
+[Get notified on Luma](/#launch)
 
 ## Media Kit
 
 Official logos, usage notes, colors, and typography are available at
-[chennaitechweek.com/media-kit](https://chennaitechweek.com/media-kit/).
+[bangkoktechweek.com/media-kit](https://bangkoktechweek.com/media-kit/).
 
 ## What To Expect
 
-- Community-hosted rooms across Chennai.
+- Community-hosted rooms across Bangkok, Thailand.
 - Founder conversations, technical sessions, demos, and meetups.
 - A public calendar that makes the week easy to discover and follow.
 
 ## Links
 
-- Website: [chennaitechweek.com](https://chennaitechweek.com)
-- Media kit: [chennaitechweek.com/media-kit](https://chennaitechweek.com/media-kit/)
-- Calendar: [lu.ma/chennaitechweek](https://lu.ma/chennaitechweek)
-- Contact: [Yashraj Nayak](https://in.linkedin.com/in/yashrajnayak)
+- Website: [bangkoktechweek.com](https://bangkoktechweek.com)
+- Media kit: [bangkoktechweek.com/media-kit](https://bangkoktechweek.com/media-kit/)
+- Launch updates: published on the official website
+- Media kit: https://bangkoktechweek.com/media-kit/
