@@ -1,20 +1,12 @@
 # Bangkok Tech Week
 
-![Bangkok Tech Week line illustration with builders gathering across the city.](assets/site/bangkok-line-graphic.png)
+The city domain now redirects to [Curious Commons](https://curiouscommons.com/). GitHub Pages is disabled. This repository retains the historical city website and its source history for future use. It is not the live hosting origin.
 
-[Bangkok Tech Week](https://bangkoktechweek.com) is a citywide builder week taking shape for founders, engineers, designers, investors, operators, and community hosts across Bangkok, Thailand.
+```mermaid
+flowchart LR
+  Domain[City domain] --> Edge[Cloudflare redirect Worker]
+  Edge --> Commons[curiouscommons.com]
+  History[GitHub source history] -. retained reference .-> Domain
+```
 
-The public website is intentionally simple while the program is being prepared. Follow the Luma calendar to get notified when updates open.
-
-[Get notified on Luma](https://luma.com/bangkoktechweek)
-
-## What To Expect
-
-- Community-hosted rooms across Bangkok, Thailand.
-- Founder conversations, technical sessions, demos, and meetups.
-- A public calendar that makes the week easy to discover and follow.
-
-## Links
-
-- Website: [bangkoktechweek.com](https://bangkoktechweek.com)
-- Luma: [luma.com/bangkoktechweek](https://luma.com/bangkoktechweek)
+No dates or city programme are announced by this redirect.
